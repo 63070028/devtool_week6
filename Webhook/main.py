@@ -1,1 +1,1 @@
-print("hello world test version 5 ok")
+printf("hello world test version 6 bad")
